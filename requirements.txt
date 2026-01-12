@@ -12,7 +12,7 @@ accelerate
 faiss-cpu
 tiktoken
 unstructured
-python-magic-bin
+# python-magic-bin
 nltk
 spacy
 langchain-text-splitters
